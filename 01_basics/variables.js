@@ -8,7 +8,6 @@ console.log("before operations");
 
 console.table([accountId, accountName, accountBalance, accountCity])
 
-
 accountName = 'Euclid Stellar'
 accountBalance = 69
 accountCity = 'Lucknow'
