@@ -4,7 +4,6 @@ var accountBalance = 1000000   // do not use var because javascript has an issue
 accountCity = 'Bangalore'
 
 console.log("before operations");
-
 console.table([accountId, accountName, accountBalance, accountCity])
 
 accountName = 'Euclid Stellar'
